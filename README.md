@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer who loves solving algorithmic p
 ### 🚀 What I'm up to:
 - 💻 Currently grinding on **LeetCode** (Medium & Hard problems)
 - 🧠 Learning and mastering **data structures and algorithms**
-- ✨ Writing clean and optimized code in **C++** and **Python**
+- ✨ Writing clean and optimized code in **C++**, **Java** and **Python**
 - 📚 Exploring competitive programming and systems-level thinking
 
 ---
